@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a33d2757d60ed7a2",
@@ -187,9 +187,10 @@
   },
   "active": "d1eacb19f0e932ca",
   "lastOpenFiles": [
+    "Markdown-latex Tutor.md",
+    "欢迎.md",
     "Linear Algebra",
-    "未命名 1",
-    "Calculus",
-    "欢迎.md"
+    "Probability Theory and Mathematical Statistics",
+    "Calculus"
   ]
 }

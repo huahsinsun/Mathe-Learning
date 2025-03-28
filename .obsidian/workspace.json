@@ -31,10 +31,14 @@
             "id": "8e08a8072775ee7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ]
@@ -184,8 +188,8 @@
   },
   "active": "8e08a8072775ee7e",
   "lastOpenFiles": [
-    "欢迎.md",
     "Markdown-latex Tutor.md",
+    "欢迎.md",
     "Linear Algebra",
     "Probability Theory and Mathematical Statistics",
     "Calculus"
